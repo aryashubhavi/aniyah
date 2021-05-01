@@ -147,6 +147,25 @@ input[type=submit]:hover {
 }
 
 /*--------------------------------------------------------------
+# Festivals Page
+--------------------------------------------------------------*/
+
+#festivals{
+  background-color:#ebcc34;
+  min-height: 1000px;
+}
+
+#festivals .container{
+    justify-content: center;
+    align-items: center;
+}
+
+#festivals h2{
+  color: #d45b83; 
+  font-weight: 400px;
+}
+
+/*--------------------------------------------------------------
 # About Page
 --------------------------------------------------------------*/
 
